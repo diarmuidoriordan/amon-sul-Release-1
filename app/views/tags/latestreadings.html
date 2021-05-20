@@ -1,0 +1,37 @@
+#{list items:_station, as:'station'}
+  <div class="ui five inverted cards">
+    <div class="green card">
+      <div class="extra">
+        <h3 class="header">${station.name}</h3>
+      </div>
+    </div>
+    <div class="green card">
+      <div class="extra">
+        <h3 class="header">Weather</h3>
+        <p class="header">${station.weatherFromCode}</p>
+      </div>
+    </div>
+    <div class="green card">
+      <div class="extra">
+        <h3 class="header">Temperature</h3>
+        <p class="header">${station.tempC}&deg;C</p>
+        <p class="header">${station.tempF}&deg;F</p>
+      </div>
+    </div>
+    <div class="green card">
+      <div class="extra">
+        <h3 class="header">Wind</h3>
+        <p class="header">${station.windBft} Bft</p>
+        <p class="header">${station.windDirectionOutput}</p>
+        <p class="header">Feels like: </p>
+        <p class="header">${station.windChill}&deg;C</p>
+      </div>
+    </div>
+    <div class="green card">
+      <div class="extra">
+        <h3 class="header">Pressure</h3>
+        <p class="header">${station.pressureHPA} hPa</p>
+      </div>
+    </div>
+  </div>
+#{/list}
