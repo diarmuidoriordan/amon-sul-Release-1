@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e49662f5-119e-4656-93e5-c18cb3ba117d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/amon-sul-Release-1.iws" beforeDir="false" afterPath="$PROJECT_DIR$/amon-sul-Release-1.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/tags/addreading.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/tags/addreading.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/tags/addstation.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/tags/addstation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/tags/latestreadings.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/tags/latestreadings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/start.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +85,9 @@
       <workItem from="1621524028577" duration="148000" />
       <workItem from="1621528214072" duration="133000" />
       <workItem from="1621690498253" duration="1114000" />
+      <workItem from="1621763440188" duration="799000" />
+      <workItem from="1621764270272" duration="900000" />
+      <workItem from="1621766083091" duration="23000" />
     </task>
     <servers />
   </component>
