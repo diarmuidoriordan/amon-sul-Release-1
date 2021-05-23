@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e49662f5-119e-4656-93e5-c18cb3ba117d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/amon-sul-Release-1.iws" beforeDir="false" afterPath="$PROJECT_DIR$/amon-sul-Release-1.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +87,7 @@
       <workItem from="1621764270272" duration="900000" />
       <workItem from="1621766083091" duration="23000" />
       <workItem from="1621771145775" duration="2091000" />
+      <workItem from="1621783950277" duration="739000" />
     </task>
     <servers />
   </component>
